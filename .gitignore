@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/DAFrame/.vs/DAFrame
+/src/DAFrame/DAFrame.Data/obj
+/src/DAFrame/DAFrame.Entity/obj
+/src/DAFrame/DAFrame.Model/obj
+/src/DAFrame/DAFrame.Repository/obj
+/src/DAFrame/DAFrame.Service/obj
+/src/DAFrame/DAFrame.Data/bin/Debug/netstandard2.1
+/src/DAFrame/DAFrame.Entity/bin/Debug/netstandard2.1
+/src/DAFrame/DAFrame.Model/bin/Debug/netstandard2.1
+/src/DAFrame/DAFrame.Repository/bin/Debug/netstandard2.1
+/src/DAFrame/DAFrame.Service/bin/Debug/netstandard2.1
